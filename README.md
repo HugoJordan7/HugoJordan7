@@ -2,20 +2,6 @@
 
 My name is Hugo, I'm 19 years old and I'm studying the 5th period of Computer Science at UEPB. I've been studying the area of ​​native android development with Kotlin for almost 1 year and I intend to specialize more and more in this area, in fact, I'm open to job proposals, click [here](https://github.com/HugoJordan7/HugoJordan7/raw/main/Curr%C3%ADculo%20-%20Hugo%20Jordan.pdf) to see my curriculum.
 
-## Main Skills
-- Android Studio with Kotlin/Java
-- Activities/Fragments
-- Application Lifecycle
-- Architectures MVC, MVP, MVVM and MVI
-- SCRUM/Kanban
-- Database with SQLite/Firebase
-- Jetpack compose/Xml
-- Coroutines
-- Unit testing
-- Dependency Injector with Koin
-- Retrofit to search data in API Rest
-
-
 <h2 align="left">I code with</h2>
 
 <div align="left" >
@@ -28,6 +14,17 @@ My name is Hugo, I'm 19 years old and I'm studying the 5th period of Computer Sc
   <img src="https://github.com/user-attachments/assets/1179f2b4-0dcf-4c57-af55-ceb6ee479e2b" height="40" alt="sqlite logo" /> &nbsp;
   <img src="https://github.com/user-attachments/assets/0d6bf802-28cf-4dc4-808d-446642d67fbd" height="40" alt="firebase logo" />
 </div>
+
+## Main Skills
+- Activities/Fragments
+- Application Lifecycle
+- Architectures MVC, MVP, MVVM and MVI
+- SCRUM/Kanban
+- Jetpack compose/Xml
+- Coroutines
+- Unit testing
+- Dependency Injector with Koin
+- Retrofit to search data in API Rest
 
 <h2 align="left">Contact</h2>
 
