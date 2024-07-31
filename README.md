@@ -1,10 +1,20 @@
-<h1 align="left">About me👋</h1>
+# About me
 
-###
-<!--
-<p align="left">My name is Hugo, I'm 19 years old and I'm studying the 5th period of Computer Science at UEPB. I've been studying the area of ​​native android development with Kotlin for almost 1 year and I intend to specialize more and more in this area, in fact, I'm open to job proposals, click 
-</p>-->
 My name is Hugo, I'm 19 years old and I'm studying the 5th period of Computer Science at UEPB. I've been studying the area of ​​native android development with Kotlin for almost 1 year and I intend to specialize more and more in this area, in fact, I'm open to job proposals, click [here](https://github.com/HugoJordan7/HugoJordan7/raw/main/Curr%C3%ADculo%20-%20Hugo%20Jordan.pdf) to see my curriculum.
+
+## Main Skills
+- Android Studio with Kotlin/Java
+- Activities/Fragments
+- Application Lifecycle
+- Architectures MVC, MVP, MVVM and MVI
+- SCRUM/Kanban
+- Database with SQLite/Firebase
+- Jetpack compose/Xml
+- Coroutines
+- Unit testing
+- Dependency Injector with Koin
+- Retrofit to search data in API Rest
+
 
 <h2 align="left">I code with</h2>
 
