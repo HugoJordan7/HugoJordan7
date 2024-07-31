@@ -1,14 +1,12 @@
 <h1 align="left">About me👋</h1>
 
 ###
-
-<p align="left">My name is Hugo, I'm 19 years old and I'm studying the 5th period of Computer Science at UEPB. I've been studying the area of ​​native android development with Kotlin for almost 1 year and I intend to specialize more and more in this area, in fact, I'm open to job proposals.</p>
-
-###
+<!--
+<p align="left">My name is Hugo, I'm 19 years old and I'm studying the 5th period of Computer Science at UEPB. I've been studying the area of ​​native android development with Kotlin for almost 1 year and I intend to specialize more and more in this area, in fact, I'm open to job proposals, click 
+</p>-->
+My name is Hugo, I'm 19 years old and I'm studying the 5th period of Computer Science at UEPB. I've been studying the area of ​​native android development with Kotlin for almost 1 year and I intend to specialize more and more in this area, in fact, I'm open to job proposals, click [here](https://github.com/HugoJordan7/HugoJordan7/raw/main/Curr%C3%ADculo%20-%20Hugo%20Jordan.pdf) to see my curriculum.
 
 <h2 align="left">I code with</h2>
-
-###
 
 <div align="left" >
   <img src="https://github.com/user-attachments/assets/efcf6e54-54f1-43f5-9057-86af5308d83f" height="40" alt="kotlin logo"/> &nbsp;
@@ -21,11 +19,7 @@
   <img src="https://github.com/user-attachments/assets/0d6bf802-28cf-4dc4-808d-446642d67fbd" height="40" alt="firebase logo" />
 </div>
 
-###
-
 <h2 align="left">Contact</h2>
-
-###
 
 <div align="left" >
   <a href="https://www.linkedin.com/in/hugo-jordan-b41b4a290">
@@ -40,5 +34,3 @@
     <img src="https://github.com/user-attachments/assets/d2a310b3-330b-4113-a46e-f52fd1193ad0" height="40" alt="instagram logo"/>
   </a>
 <div/>
-
-###
