@@ -17,7 +17,7 @@ My name is Hugo, I'm 19 years old and I'm studying the 5th period of Computer Sc
 
 ## Main Skills
 - Android Studio with kotlin/java
-- Git/GitHUb/Bitbucket
+- Git/Github/Bitbucket
 - Activities/Fragments
 - Application Lifecycle
 - Architectures MVC, MVP, MVVM and MVI
