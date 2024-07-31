@@ -34,13 +34,14 @@ My name is Hugo, I'm 19 years old and I'm studying the 5th period of Computer Sc
 <div align="left" >
   <a href="https://www.linkedin.com/in/hugo-jordan-b41b4a290">
     <img src="https://github.com/user-attachments/assets/1256a4e7-0011-4b5c-91d2-06e84fece2d7" height="40" alt="linkedIn logo"/>
-  </a>
-  <img width="5"/>
+  </a> &nbsp;
   <a href="mailto:hugoj8366@gmail.com">
     <img src="https://github.com/user-attachments/assets/285c9bc7-c30f-4cc2-a68d-4aad5641b6ae" height="40" alt="gmail logo"/>
-  </a>
-  <img width="5"/>
+  </a> &nbsp;
   <a href="https://www.instagram.com/hugojordan7">
     <img src="https://github.com/user-attachments/assets/d2a310b3-330b-4113-a46e-f52fd1193ad0" height="40" alt="instagram logo"/>
   </a>
 <div/>
+
+
+
