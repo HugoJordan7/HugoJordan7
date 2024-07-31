@@ -32,8 +32,8 @@
     <img src="https://github.com/user-attachments/assets/1256a4e7-0011-4b5c-91d2-06e84fece2d7" height="40" alt="linkedIn logo"/>
   </a>
   <img width="5"/>
-  <a href="mailto:hugoj8366@gmail.com" >
-    <img src="https://github.com/user-attachments/assets/cd442a82-3f53-41e1-a919-2cf5434926c7" height="40" alt="gmail logo"/>
+  <a href="mailto:hugoj8366@gmail.com">
+    <img src="https://github.com/user-attachments/assets/285c9bc7-c30f-4cc2-a68d-4aad5641b6ae" height="40" alt="gmail logo"/>
   </a>
   <img width="5"/>
   <a href="https://www.instagram.com/hugojordan7">
