@@ -5,20 +5,23 @@ My name is Hugo, I'm 19 years old and I'm studying the 5th period of Computer Sc
 <h2 align="left">I code with</h2>
 
 <div align="left" >
-  <img src="https://github.com/user-attachments/assets/efcf6e54-54f1-43f5-9057-86af5308d83f" height="40" alt="kotlin logo"/> &nbsp;
-  <img src="https://github.com/user-attachments/assets/ab9c220f-ccb6-43ff-aef6-08502c7dd249" height="40" alt="java logo" /> &nbsp;
-  <img src="https://github.com/user-attachments/assets/f75a73fb-857d-4a00-bbd6-38b8cc348806" height="40" alt="android studio logo" /> &nbsp;
-  <img src="https://github.com/user-attachments/assets/62907140-3d78-4a97-b5d7-ee6163164295" height="40" alt="gradle logo" /> &nbsp;
-  <img src="https://github.com/user-attachments/assets/9af00efa-07de-43df-a11e-ac1cced26a54" height="40" alt="git logo" /> &nbsp;
-  <img src="https://github.com/user-attachments/assets/0e7eebfe-05bc-467d-8403-0e8ca237a27c" height="40" alt="github logo" /> &nbsp;
-  <img src="https://github.com/user-attachments/assets/1179f2b4-0dcf-4c57-af55-ceb6ee479e2b" height="40" alt="sqlite logo" /> &nbsp;
-  <img src="https://github.com/user-attachments/assets/0d6bf802-28cf-4dc4-808d-446642d67fbd" height="40" alt="firebase logo" />
+  <img src="https://github.com/user-attachments/assets/efcf6e54-54f1-43f5-9057-86af5308d83f" height="40" title="kotlin" /> &nbsp;
+  <img src="https://github.com/user-attachments/assets/ab9c220f-ccb6-43ff-aef6-08502c7dd249" height="40" title="java" /> &nbsp;
+  <img src="https://github.com/user-attachments/assets/f75a73fb-857d-4a00-bbd6-38b8cc348806" height="40" title="android studio" /> &nbsp;
+  <img src="https://github.com/user-attachments/assets/62907140-3d78-4a97-b5d7-ee6163164295" height="40" title="gradle" /> &nbsp;
+  <img src="https://github.com/user-attachments/assets/9af00efa-07de-43df-a11e-ac1cced26a54" height="40" title="git" /> &nbsp;
+  <img src="https://github.com/user-attachments/assets/0e7eebfe-05bc-467d-8403-0e8ca237a27c" height="40" title="github" /> &nbsp;
+  <img src="https://github.com/user-attachments/assets/1179f2b4-0dcf-4c57-af55-ceb6ee479e2b" height="40" title="sqlite" /> &nbsp;
+  <img src="https://github.com/user-attachments/assets/0d6bf802-28cf-4dc4-808d-446642d67fbd" height="40" title="firebase" />
 </div>
 
 ## Main Skills
+- Android Studio with kotlin/java
+- Git/GitHUb/Bitbucket
 - Activities/Fragments
 - Application Lifecycle
 - Architectures MVC, MVP, MVVM and MVI
+- Firebase/SQLite
 - SCRUM/Kanban
 - Jetpack compose/Xml
 - Coroutines
