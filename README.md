@@ -1,8 +1,8 @@
-# About me
+# About me 🙋🏻‍♂️
 
 My name is Hugo, I'm 19 years old and I'm studying the 5th period of Computer Science at UEPB. I've been studying the area of ​​native android development with Kotlin for almost 1 year and I intend to specialize more and more in this area, in fact, I'm open to job proposals, click [here](https://github.com/HugoJordan7/HugoJordan7/raw/main/Curr%C3%ADculo%20-%20Hugo%20Jordan.pdf) to see my curriculum.
 
-<h2 align="left">I code with</h2>
+## I code with 🖥️🖱️
 
 <div align="left" >
   <img src="https://github.com/user-attachments/assets/efcf6e54-54f1-43f5-9057-86af5308d83f" height="40" title="kotlin" /> &nbsp;
@@ -15,7 +15,7 @@ My name is Hugo, I'm 19 years old and I'm studying the 5th period of Computer Sc
   <img src="https://github.com/user-attachments/assets/0d6bf802-28cf-4dc4-808d-446642d67fbd" height="40" title="firebase" />
 </div>
 
-## Main Skills
+## Main Skills 🛠️
 - Android Studio with kotlin/java
 - Git/Github/Bitbucket
 - Activities/Fragments
@@ -29,7 +29,7 @@ My name is Hugo, I'm 19 years old and I'm studying the 5th period of Computer Sc
 - Dependency Injector with Koin
 - Retrofit to search data in API Rest
 
-<h2 align="left">Contact</h2>
+## Contact ✉️
 
 <div align="left" >
   <a href="https://www.linkedin.com/in/hugo-jordan-b41b4a290">
