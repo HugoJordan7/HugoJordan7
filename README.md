@@ -1,6 +1,6 @@
 # About me 🙋🏻‍♂️
 
-My name is Hugo, I'm 19 years old and I'm studying the 5th period of Computer Science at UEPB. I've been studying the area of ​​native android development with Kotlin for almost 1 year and I intend to specialize more and more in this area, in fact, I'm open to job proposals, click [here](https://github.com/HugoJordan7/HugoJordan7/raw/main/Curr%C3%ADculo%20-%20Hugo%20Jordan.pdf) to see my curriculum.
+My name is Hugo, I'm 20 years old, I'm studying the 5th period of Computer Science at UEPB and I currently work as a Native Android Developer with Kotlin.
 
 ## I code with 🖥️🖱️
 
